@@ -1,3 +1,3 @@
 # Full_Stack_TB
-today we are <br> learning git 
+today we are \n learning git 
 instructor is  Vinay sir 
